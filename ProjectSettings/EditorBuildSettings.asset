@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: e0970543f88034362b405c13019862af
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 1d1fe93e5f5fa423daf9c95206064428
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 2b05b5c183e1a5040a217e477d46e8ad
+  - enabled: 1
+    path: Assets/Scenes/Gard1.unity
+    guid: 5aae7d6da66de4db78c9b8395ec95263
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: 6ea34bb22dedf034994fd2ceda64cb0f
+  - enabled: 1
+    path: Assets/Scenes/Gard2.unity
+    guid: 675cca01a8b7a4f7f95f06be74aedec1
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 0c534ba2e00681241a0812ccca560c46
+  - enabled: 1
+    path: Assets/Scenes/Gard3.unity
+    guid: c0c1df48bd4874e0aaeca5a4ade4fd6b
+  - enabled: 1
+    path: Assets/Scenes/Stage4.unity
+    guid: cbb1c47697ce66a46b6f708977513967
+  - enabled: 1
+    path: Assets/Scenes/Gard4.unity
+    guid: 813ba96a03032d6429101dfe402338d1
+  - enabled: 1
+    path: Assets/Scenes/Stage5.unity
+    guid: b5a0900947d01854eab9c073e17474f4
+  - enabled: 1
+    path: Assets/Scenes/Gard5.unity
+    guid: 58c317ef36d534dc79c889da01e87713
+  - enabled: 1
+    path: Assets/Scenes/Stage6.unity
+    guid: 6a9efdf897470834fbd55a1ae0bb1a89
+  - enabled: 1
+    path: Assets/Scenes/Gard6.unity
+    guid: ec63c6ce9a5fa4a47b14238e579ef527
+  - enabled: 1
+    path: Assets/Scenes/Stage7.unity
+    guid: 9ce0e5168e185704baf2461ecae0a7d7
+  - enabled: 1
+    path: Assets/Scenes/Gard7.unity
+    guid: 81de27f28c5d5487d88ed8e9f66647bf
+  - enabled: 1
+    path: Assets/Scenes/Stage8.unity
+    guid: 1e5d4023421feb24a90abe5a3aa4843e
+  - enabled: 1
+    path: Assets/Scenes/Gard8.unity
+    guid: eaa707b51d5db4e45a0504368d30cc5e
+  - enabled: 1
+    path: Assets/Scenes/Stage9.unity
+    guid: d2f4341f97aa5064085a8c4f7be91848
+  - enabled: 1
+    path: Assets/Scenes/Gard9.unity
+    guid: 0dee33371bcaf40919d06709b8d0acd7
+  - enabled: 1
+    path: Assets/Scenes/Stage10.unity
+    guid: 425aa07592f750e4689fa09ecb52c350
+  - enabled: 1
+    path: Assets/Scenes/Gard10.unity
+    guid: b462d611f81ba44bfad277a9db06b88d
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: 47aa4584d1dcc40df98796ea6106fb61
+  - enabled: 0
+    path: Assets/Scenes/Stage10000.unity
+    guid: 70eb2f80a6a464a42a6ae9ba89863b75
+  - enabled: 0
+    path: Assets/Scenes/Gardening10000.unity
+    guid: b364981734c61487fbb9d958e0db457a
